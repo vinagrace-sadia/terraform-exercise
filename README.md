@@ -1,2 +1,2 @@
-# terraform-exercise
+# Terraform Exercises
 Terraform practice code
