@@ -1,2 +1,2 @@
-# AWS Terraform Exercises
+# Terraform AWS Exercises
 Terraform practice code with AWS
